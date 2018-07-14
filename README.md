@@ -1,2 +1,2 @@
 # hello-world
-"la Terre est rouge comme une orange"
+"la Terre est bleue comme une orange"
